@@ -1,0 +1,1 @@
+Math.sin(90 * Math.PI / 180)   // 1
